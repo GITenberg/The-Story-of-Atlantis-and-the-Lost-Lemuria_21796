@@ -1,0 +1,25 @@
+_repo: The-Story-of-Atlantis-and-the-Lost-Lemuria_21796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott-Elliot, W. (William)
+    gutenberg_agent_id: '24895'
+    url: http://www.gutenberg.org/2009/agents/24895
+description: ''
+gutenberg_issued: '2007-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Atlantis (Legendary place)'
+- !lcsh 'Lemuria'
+title: The Story of Atlantis and the Lost Lemuria
+url: http://www.gutenberg.org/ebooks/21796
