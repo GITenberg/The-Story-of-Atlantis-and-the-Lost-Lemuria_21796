@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24895'
     url: http://www.gutenberg.org/2009/agents/24895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21796#The-Story-of-Atlantis-and-the-Lost-Lemuria
 gutenberg_issued: '2007-06-10'
 gutenberg_type: Text
 identifiers:
